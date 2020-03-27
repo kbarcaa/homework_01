@@ -94,13 +94,13 @@ p {
     color: #ffffff;
 }
 
-/* all three h3 <h3> merged under new div class: [.benefit-content] */
+/* all three <h3> merged under new div class: [.benefit-content] */
 .benefit-content h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* all three images <img> merged under new div class: [.benefit-content] */
+/* all three <img> merged under new div class: [.benefit-content] */
 .benefit-content img {
     display: block;
     margin: 10px auto;
